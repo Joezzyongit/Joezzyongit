@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/tyrex_on" target="blank"><img src="https://img.shields.io/twitter/follow/tyrex_on?logo=twitter&style=for-the-badge" alt="tyrex_on" /></a> </p>
 
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **Python Programming Language**
 
 - 💬 Ask me about **Html, Css**
 
