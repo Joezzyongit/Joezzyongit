@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOEZZY</h1>
-<h3 align="center">A passionate full stack developer from nigeria</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/tyrex_on" target="blank"><img src="https://img.shields.io/twitter/follow/tyrex_on?logo=twitter&style=for-the-badge" alt="tyrex_on" /></a> </p>
 
